@@ -8,6 +8,9 @@ Olist Store is the largest department store in Brazilian marketplaces. Olist con
 - Data Sources: Public dataset from Olist
 - Tools: Power BI, Python, Pandas, SQL
 
+# Data Schema
+![image](https://github.com/Gemcy-Zheng/Brazil-E-commerce-Olist-Business-Analysis/assets/79415591/b1b2b2d7-b896-4962-80ee-59278b76b816)
+
 # Marketing Insight
 ![image](https://github.com/Gemcy-Zheng/Brazil-E-commerce-Olist-Business-Analysis/assets/141103327/41ae4f70-8cad-42e2-996b-d64b2956d9ee)
 
