@@ -103,57 +103,87 @@ Strengthen cooperation with online payment companies such as credit_cart and bol
 ![image](https://github.com/Gemcy-Zheng/Brazil-E-commerce-Olist-Business-Analysis/assets/79415591/826afff5-7b8d-48cb-8508-539d6c1d6c56)
 
 #### Analysis
-This sub-section focuses on the return rates and customer reviews. A high return rate could potentially tarnish Olist's reputation and operational efficiency.
+The chart shows a comprehensive view of customer reviews, totaling 100,000 with an average score of 4.07 out of a maximum of 5. Interestingly, the majority of customers seem to be very satisfied, with 57,000 giving a 5-star rating. Additionally, 19,000 customers rated the service 4 stars, while only 3,235 gave it the least frequent rating of 2 stars. However, there is a significant number of 1-star ratings, totaling 12,000, which indicates areas where the service could be improved.
 
 #### Market Insights
-High return rates could be due to a myriad of reasons, including product quality, delivery issues, or customer service.
+The overall high average rating and a large number of 5-star ratings are strong indicators of customer satisfaction. However, the presence of a considerable number of low ratings suggests that there are areas in need of improvement.
 
 #### Recommendations
-Olist should identify the specific factors contributing to high return rates, possibly requiring further data analysis and customer surveys. Once identified, immediate actions should be taken to address these issues.
+To maintain these high levels of satisfaction and address the existing concerns, Olist could explore the underlying issues behind the low ratings and implement targeted customer service improvements. Capitalizing on the aspects that are leading to 4 and 5-star ratings through customer testimonials or case studies can further boost the company's reputation.
 
 ### Sub-part 7.2: Return & Review 2
 ![image](https://github.com/Gemcy-Zheng/Brazil-E-commerce-Olist-Business-Analysis/assets/79415591/07ed29d1-b3b7-4d78-9708-914a0a5729bf)
 
 #### Analysis
-Similar to the previous sub-section, this part also deals with product returns but focuses on specific categories.
+The categories with the most returns and cancellations are 'bed_bath_table' and 'health_beauty'. As for the order status, 97% are successfully delivered, while 1.11% are canceled. The average ratings can also be viewed by year and month, with January 2017 seeing the highest average ratings. Additionally, ratings can be broken down by region.
 
 #### Market Insights
-Certain product categories might have higher return rates due to their nature, such as clothing or electronics.
+The high frequency of returns and cancellations in specific categories like 'bed_bath_table' and 'health_beauty' could indicate quality issues or perhaps unmet customer expectations in these areas. The overwhelmingly high delivery rate is a positive sign, but the cancellations, although minimal, should not be ignored. The fluctuation in average ratings over time and across regions could provide insights into varying levels of customer satisfaction.
 
 #### Recommendations
-Product categories with higher return rates should be scrutinized to understand the underlying reasons better. Olist can then take targeted actions to improve these specific areas.
+- Investigate the reasons behind the high return and cancellation rates in specific categories.
+- Strengthen quality control measures in these categories to reduce returns and cancellations.
+- Examine the trends in average ratings by year, month, and region to identify any patterns or areas for improvement.
+- Implement targeted customer engagement strategies based on these insights, which could include region-specific promotions or enhanced customer service features.
 
 ### Sub-part 7.3: Cancellation
 ![image](https://github.com/Gemcy-Zheng/Brazil-E-commerce-Olist-Business-Analysis/assets/79415591/4de0de95-1311-4616-bce8-e3021ee4df08)
 
 #### Analysis
-This sub-section tackles the rate of order cancellations.
+The data reveals that a total of 625 orders were cancelled over the year. The number of cancellations varies by month, with the highest occurring in August (111 cancellations) and the lowest in December (11 cancellations).
 
 #### Market Insights
-A high cancellation rate could be due to various factors, including payment issues or a complicated checkout process.
+The fluctuation in cancellation rates could indicate varying customer satisfaction levels throughout the year. The peak in August might suggest issues related to supply chain, demand forecasting, or customer service that need to be addressed.
 
 #### Recommendations
-Olist needs to investigate the root causes for the high cancellation rates and implement strategies to simplify the purchasing process, thereby reducing cancellations.
+- Conduct a deeper analysis to identify the reasons behind high cancellation rates in specific months, especially August.
+- Implement proactive customer service measures, such as sending order status updates to customers and offering quicker response times to inquiries.
+- Review and possibly optimize the supply chain to ensure that product availability matches demand, thus reducing the need for cancellations.
+- Consider introducing a more flexible return policy to convert potential cancellations into returns, which may be less detrimental to overall sales.
 
 ### Sub-part 7.4: Cancellation Rating
 ![image](https://github.com/Gemcy-Zheng/Brazil-E-commerce-Olist-Business-Analysis/assets/79415591/2f5d731b-2006-4263-89c3-9d2ad40bdc1b)
 
 #### Analysis
-This part shows customer ratings related to cancellations.
+Out of 625 cancelled orders, 620 received ratings. A majority of these ratings were negative, with 432 (69.68%) customers giving a rating of 1. On the other hand, 70 customers (11%) gave a 5-star rating.
 
 #### Market Insights
-Negative ratings related to cancellations could severely impact customer trust and brand reputation.
+The high number of 1-star ratings indicates significant customer dissatisfaction related to cancellations. Most of the low ratings are attributed to issues like damaged or faulty items. Conversely, the existence of 5-star ratings may suggest that Olist is doing well in managing returns, leading to some level of customer satisfaction.
 
 #### Recommendations
-Olist should take immediate steps to understand why cancellations are rated poorly and work on rectifying these issues to improve customer satisfaction.
+- Investigate the common reasons behind the 1-star ratings, especially focusing on comments that mention "broken," "bad," "damaged," or "faulty" products.
+- Enhance quality control measures to reduce the likelihood of sending damaged or faulty items.
+- Continue to excel in return management, as indicated by the 5-star ratings, to maintain this area of customer satisfaction.
 
 ---
 
-# 8. Repurchase rate of consumers
+# 8. Repurchase Rate Among Consumers
 ![image](https://github.com/Gemcy-Zheng/Brazil-E-commerce-Olist-Business-Analysis/assets/141103327/af97e173-1b6c-456b-aeb0-a3197dd8771c)
 
-# 9. Repurchase rate of stages
+#### Analysis
+The overall repurchase rate is 2.999%, with a total customer base of 96,214 and 2,886 returning customers. The highest number of repurchases by a single customer is 17. There are 2,644 customers with two purchases and 242 customers who have made more than two purchases, making up 8.39% of the repurchasing customer base.
+
+#### Market Insights
+These statistics provide a deeper understanding of customer repurchasing behavior, revealing that only a minority of customers make multiple purchases.
+
+#### Recommendations
+Olist should implement specific marketing strategies to target consumer groups with lower repurchase rates, such as special promotions or loyalty programs, to encourage repeat business.
+
+---
+
+# 9. Repurchase Rate by Provinces
 ![image](https://github.com/Gemcy-Zheng/Brazil-E-commerce-Olist-Business-Analysis/assets/141103327/bb9e3973-f2de-4208-977e-3223a0a9d137)
+
+#### Analysis
+This section focuses on the repurchase rates across different provinces. For example, the repurchase rate in São Paulo is 6.36%, while it is 6.75% in Rio de Janeiro.
+
+#### Market Insights
+The varied repurchase rates across provinces indicate the level of customer loyalty in each region. A higher repurchase rate may suggest greater customer satisfaction with Olist's services or products in that particular province.
+
+#### Recommendations
+Olist should concentrate on the provinces with lower repurchase rates to understand the underlying reasons for lower customer loyalty and take appropriate measures to improve it.
+
+---
 
 # 10.Using the k-NN algorithm to predict customer characteristics and review ratings on the Olist platform that may result in high and low ratings
 ![image](https://github.com/Gemcy-Zheng/Brazil-E-commerce-Olist-Business-Analysis/assets/141103327/0e5a2094-d0ea-4e48-bb9c-76528a0c9fe1)
