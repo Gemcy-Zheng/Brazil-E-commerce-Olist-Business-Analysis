@@ -46,13 +46,14 @@ Given the high spending levels in these cities, Olist should conduct more aggres
 ![image](https://github.com/Gemcy-Zheng/Brazil-E-commerce-Olist-Business-Analysis/assets/79415591/f329707e-5235-4d21-a6cc-92016fc6aa9a)
 
 #### Analysis
-This section depicts the sales performance across different product categories on Olist. Some categories, like home appliances and electronics, perform exceptionally well.
+The chart provides an extensive look into the different categories of products available on the platform, totaling 74 in number. Among these, 'bed_bath_table' and 'sports_leisure' stand out as the categories with the most substantial number of products.
 
 #### Market Insights
-The high sales volume in these categories likely correlates with consumer demand and product quality.
+The prominence of 'bed_bath_table' and 'sports_leisure' categories suggests that these are potentially high-demand areas. The wide range of 74 categories also indicates a diverse product offering, catering to various customer needs and preferences.
 
 #### Recommendations
-Olist should invest more resources in these high-performing categories, improving both the quality and variety of products. For underperforming categories, market research should be conducted to identify reasons for low sales and adjust product strategies accordingly.
+- Conducting market research to understand why these categories are popular and whether there are unmet needs within them that could be addressed with new products.
+- Exploring opportunities for cross-selling or bundling products in these popular categories with other less popular but complementary categories.
 
 ---
 
@@ -60,13 +61,16 @@ Olist should invest more resources in these high-performing categories, improvin
 ![image](https://github.com/Gemcy-Zheng/Brazil-E-commerce-Olist-Business-Analysis/assets/141103327/73630592-e521-4dab-b289-f1063c886e72)
 
 #### Analysis
-This section gives an overview of the performance of various sellers on the Olist platform. It reveals which sellers are generating the most revenue and who are lagging behind.
+The chart displays an overview of expenditures across various stages (provinces), with a total consumption of 13.59 million and total shipping fees amounting to 2.25 million. Notably, the stage referred to as "RR" incurs the highest shipping cost, with an average fee of 48.59. The chart also provides details on shipping costs, demand, and supply for other stages.
 
 #### Market Insights
-Certain sellers are dominating the market, possibly due to better product offerings or more effective marketing strategies. These top sellers are vital for Olist's revenue stream.
+The high shipping cost for the "RR" stage could indicate logistical challenges or less efficient supply chain operations in that particular region. The data provides a comprehensive view of how shipping costs and demand vary across different stages, offering insights into regional disparities.
 
 #### Recommendations
-Olist should consider forming partnerships with these top-performing sellers to possibly create exclusive deals or promotions. For the sellers that are not performing well, Olist could offer support in the form of marketing tips or optimized product placements.
+- Investigating the high shipping costs in the "RR" stage to identify potential areas for improvement or alternative logistics solutions.
+- Conducting a demand and supply analysis across different stages to better allocate resources and perhaps introduce region-specific promotions or discounts.
+- Exploring partnerships with local suppliers or logistic companies in stages with high demand but high shipping costs, aiming to reduce these costs and improve customer satisfaction.
+
 
 ---
 
@@ -87,10 +91,10 @@ Which state had the highest transaction amount and order quantity on November 24
 ![image](https://github.com/Gemcy-Zheng/Brazil-E-commerce-Olist-Business-Analysis/assets/141103327/288690b9-1e53-4887-a86c-ce5580169a10)
 
 #### Analysis
-This section illustrates the usage of different payment methods on Olist. Credit cards appear to be the most commonly used method, followed by cash-on-delivery.
+The chart displays information on the types of payments for a total of 99,441 orders. A significant majority of customers, 73.92%, prefer to use credit cards, while 19.04% opt for boleto payments. In terms of payment scheduling, most customers—around 52,000—choose to pay in a single installment. About 10,000 customers prefer to split their payments over two months, and approximately 7,000 customers opt for a three-month installment plan.
 
 #### Market Insights
-Credit cards are a prevalent payment method in Brazil, while cash-on-delivery might be preferred in remote areas or among older demographics.
+The predominant use of credit cards could be indicative of a customer base that is comfortable with digital transactions. The data also reveals varying preferences for payment scheduling, offering insights into customer financial planning or trust in the platform.
 
 #### Recommendations
 Strengthen cooperation with online payment companies such as credit_cart and boletol, maintain good relationships, and achieve long-term cooperation contracts to increase promotional revenue. Installments are mainly concentrated in one installment.
