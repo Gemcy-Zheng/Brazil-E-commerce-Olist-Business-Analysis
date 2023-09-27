@@ -40,7 +40,7 @@ Given the high spending levels in these cities, Olist should conduct more aggres
 ---
 
 # 3. Category Analysis
-
+![image](https://github.com/Gemcy-Zheng/Brazil-E-commerce-Olist-Business-Analysis/assets/79415591/f329707e-5235-4d21-a6cc-92016fc6aa9a)
 
 #### Analysis
 This section depicts the sales performance across different product categories on Olist. Some categories, like home appliances and electronics, perform exceptionally well.
@@ -94,13 +94,65 @@ Strengthen cooperation with online payment companies such as credit_cart and bol
 
 ---
 
-# 7. Repurchase rate of consumers
+# 7. Return, Review & Cancellation
+
+#### Sub-part 7.1: Return & Review 1
+![image](https://github.com/Gemcy-Zheng/Brazil-E-commerce-Olist-Business-Analysis/assets/79415591/826afff5-7b8d-48cb-8508-539d6c1d6c56)
+
+#### Analysis
+This sub-section focuses on the return rates and customer reviews. A high return rate could potentially tarnish Olist's reputation and operational efficiency.
+
+#### Market Insights
+High return rates could be due to a myriad of reasons, including product quality, delivery issues, or customer service.
+
+#### Recommendations
+Olist should identify the specific factors contributing to high return rates, possibly requiring further data analysis and customer surveys. Once identified, immediate actions should be taken to address these issues.
+
+### Sub-part 7.2: Return & Review 2
+![image](https://github.com/Gemcy-Zheng/Brazil-E-commerce-Olist-Business-Analysis/assets/79415591/07ed29d1-b3b7-4d78-9708-914a0a5729bf)
+
+#### Analysis
+Similar to the previous sub-section, this part also deals with product returns but focuses on specific categories.
+
+#### Market Insights
+Certain product categories might have higher return rates due to their nature, such as clothing or electronics.
+
+#### Recommendations
+Product categories with higher return rates should be scrutinized to understand the underlying reasons better. Olist can then take targeted actions to improve these specific areas.
+
+### Sub-part 7.3: Cancellation
+![image](https://github.com/Gemcy-Zheng/Brazil-E-commerce-Olist-Business-Analysis/assets/79415591/4de0de95-1311-4616-bce8-e3021ee4df08)
+
+#### Analysis
+This sub-section tackles the rate of order cancellations.
+
+#### Market Insights
+A high cancellation rate could be due to various factors, including payment issues or a complicated checkout process.
+
+#### Recommendations
+Olist needs to investigate the root causes for the high cancellation rates and implement strategies to simplify the purchasing process, thereby reducing cancellations.
+
+### Sub-part 7.4: Cancellation Rating
+![image](https://github.com/Gemcy-Zheng/Brazil-E-commerce-Olist-Business-Analysis/assets/79415591/2f5d731b-2006-4263-89c3-9d2ad40bdc1b)
+
+#### Analysis
+This part shows customer ratings related to cancellations.
+
+#### Market Insights
+Negative ratings related to cancellations could severely impact customer trust and brand reputation.
+
+#### Recommendations
+Olist should take immediate steps to understand why cancellations are rated poorly and work on rectifying these issues to improve customer satisfaction.
+
+---
+
+# 8. Repurchase rate of consumers
 ![image](https://github.com/Gemcy-Zheng/Brazil-E-commerce-Olist-Business-Analysis/assets/141103327/af97e173-1b6c-456b-aeb0-a3197dd8771c)
 
-# 8. Repurchase rate of stages
+# 9. Repurchase rate of stages
 ![image](https://github.com/Gemcy-Zheng/Brazil-E-commerce-Olist-Business-Analysis/assets/141103327/bb9e3973-f2de-4208-977e-3223a0a9d137)
 
-# 9.Using the k-NN algorithm to predict customer characteristics and review ratings on the Olist platform that may result in high and low ratings
+# 10.Using the k-NN algorithm to predict customer characteristics and review ratings on the Olist platform that may result in high and low ratings
 ![image](https://github.com/Gemcy-Zheng/Brazil-E-commerce-Olist-Business-Analysis/assets/141103327/0e5a2094-d0ea-4e48-bb9c-76528a0c9fe1)
 ![image](https://github.com/Gemcy-Zheng/Brazil-E-commerce-Olist-Business-Analysis/assets/141103327/5cea416b-bbf4-44b6-b29f-ef705089bab1)
 ![image](https://github.com/Gemcy-Zheng/Brazil-E-commerce-Olist-Business-Analysis/assets/141103327/1d69caed-e512-4029-aa35-6b2c197d796e)
