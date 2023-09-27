@@ -1,5 +1,6 @@
 # Brazil-E-commerce-Olist-Business-Analysis
 Analyse the provided datasets using Business Intelligence tools and provide some marketing findings / recommendations in a report format.
+![image](https://github.com/Gemcy-Zheng/Brazil-E-commerce-Olist-Business-Analysis/assets/141103327/ebf14d8e-3210-4196-bd7c-eb54e999e5bc)
 
 # Project description
 Olist Store is the largest department store in Brazilian marketplaces. Olist connects small businesses from all over Brazil to channels without hassle and with a single contract. The Brazilian ecommerce public dataset of orders (from 2016 to 2018) made at Olist Store is provided to your company for analysis.
