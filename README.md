@@ -1,4 +1,4 @@
-# Brazil-E-commerce-Olist-Business-Analyst
+# Brazil E-commerce Olist Business Analyst
 Analyse the provided datasets using Business Intelligence tools and provide some marketing findings / recommendations in a report format.
 
 # Project description
